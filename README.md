@@ -1,6 +1,7 @@
 ### Hi there, I'm Dimash 👋
 
 A passionate frontend developer from Kazakhstan
+
 A student RS School
 
 - 🌱 I’m currently learning React
