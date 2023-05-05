@@ -7,7 +7,7 @@ A student RS School
 - 🌱 I’m currently learning React
 - 💪 My technology stack: Html, Css/Scss, Java script, BEM, Git, Figma
 - 😎 My [LinkedIn](https://www.linkedin.com/in/dinmukhamed-amirov-4b520726b/)
-- 📄 Check out my [CV]()
+- 📄 Check out my [CV](https://dimash95.github.io/rsschool-cv/)
 - ⚡ Fun fact: I like music
 <!--
 **Dimash95/Dimash95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
