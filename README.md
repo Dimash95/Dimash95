@@ -4,7 +4,7 @@ A passionate frontend developer from Kazakhstan
 
 A student RS School
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Vue
 - 💪 My technology stack: Html, Css/Scss, Java script, BEM, Git, Figma
 - 😎 My [LinkedIn](https://www.linkedin.com/in/dinmukhamed-amirov-4b520726b/)
 - 📄 Check out my [CV](https://dimash95.github.io/rsschool-cv/)
