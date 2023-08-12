@@ -10,7 +10,7 @@ The next step is to learn Node.js and become a full stack developer.
 
 - 🕺 I'm looking for my first job in IT industry
   
-- 📄 Check out my CV: [Head Hunter]([https://dimash95.github.io/rsschool-cv/](https://hh.kz/resume/b6ebaf9bff096cd1370039ed1f37506742786c?hhtmFrom=resume_list))
+- 📄 Check out my CV: [Head Hunter](https://hh.kz/resume/b6ebaf9bff096cd1370039ed1f37506742786c?hhtmFrom=resume_list)
 
 ---
 🤝 Social network:
@@ -33,8 +33,10 @@ The next step is to learn Node.js and become a full stack developer.
 ---
 📚 Completed courses:
 
-|                    Courses                |          Date          |
-|-------------------------------------------|------------------------|
-| RS School "JavaScript/Front-end. Stage 0" | 12/2022 - 02/2023      |
-| RS School "JavaScript/Front-end"          | 03/2023 - learning now |
+|                      Courses                |          Date          |
+|---------------------------------------------|------------------------|
+| ELC Almaty - English Pre-intermediate level | 10/2020 - 12/2020      |
+| ELC Almaty - English Intermediate level     | 01/2021 - 03/2021      |
+| RS School - «JavaScript/Front-end. Stage 0» | 12/2022 - 02/2023      |
+| RS School - «JavaScript/Front-end»          | 03/2023 - learning now |
 
