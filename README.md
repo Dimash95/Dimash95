@@ -2,7 +2,9 @@
 ---
 👨‍💻 About me:
 
-I am a novice Frontend Developer from Kazakhstan. At the moment I am studying in [RS school - «JavaScript/Front-end»](https://rs.school/js/) course. In future I wanna be Full sctack developer.
+I am a novice Frontend Developer from Kazakhstan. 
+At the moment I am studying in [RS school - «JavaScript/Front-end»](https://rs.school/js/) course. 
+The next step is to learn Node.js and become a full stack developer.
 
 - ⚛️ I’m currently learning React
 
@@ -31,4 +33,8 @@ I am a novice Frontend Developer from Kazakhstan. At the moment I am studying in
 ---
 Completed courses:
 
+|              Courses             |          Date         |
+|----------------------------------|-----------------------|
+| JavaScript/Front-end. Stage 0    | 12/2022 - 02/2023     |
+| JavaScript/Front-end             | 03/2023 - learning now|
 
