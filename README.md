@@ -7,13 +7,28 @@ I am a novice Frontend Developer from Kazakhstan. At the moment I am studying in
 - ⚛️ I’m currently learning React
 
 - 🕺 I'm looking for my first job in IT industry
+  
+- 📄 Check out my CV: [Head Hunter]([https://dimash95.github.io/rsschool-cv/](https://hh.kz/resume/b6ebaf9bff096cd1370039ed1f37506742786c?hhtmFrom=resume_list))
 
 - 📱 How to reach me: Telegram - @Dimash95, email - dinmukhamed.amirov@gmail.com
 ---
-Social network:
+🤝 Social network:
 
-![https://img.icons8.com/?size=512&id=25n4hOEoY7ss&format=png](https://t.me/Dimash95)
+[<img width="50" height="50" src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-blue-telegram-flat-icons-inmotus-design.png" alt="external-blue-telegram-flat-icons-inmotus-design"/>
+](https://t.me/Dimash95)
+[<img width="54" height="54" src="https://img.icons8.com/color/48/linkedin-circled--v3.png" alt="linkedin-circled--v3"/>](https://www.linkedin.com/in/dinmukhamed-amirov-4b520726b/)
 
-- 💪 My technology stack: Html, Css/Scss, Java script, BEM, Git, Figma
-- 😎 My [LinkedIn](https://www.linkedin.com/in/dinmukhamed-amirov-4b520726b/)
-- 📄 Check out my [CV](https://dimash95.github.io/rsschool-cv/)
+---
+💻 Technology stack:
+
+<img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/> <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/typescript--v2.png" alt="typescript--v2"/>
+<img width="48" height="48" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/vue-js.png" alt="vue-js"/>
+
+---
+Completed courses:
+
+
