@@ -12,10 +12,10 @@ The next step is to learn Node.js and become a full stack developer.
   
 - 📄 Check out my CV: [Head Hunter]([https://dimash95.github.io/rsschool-cv/](https://hh.kz/resume/b6ebaf9bff096cd1370039ed1f37506742786c?hhtmFrom=resume_list))
 
-- 📱 How to reach me: Telegram - @Dimash95, email - dinmukhamed.amirov@gmail.com
 ---
 🤝 Social network:
 
+[<img width="48" height="48" src="https://img.icons8.com/fluency/48/gmail.png" alt="gmail"/>](dinmukhamed.amirov@gmail.com)
 [<img width="50" height="50" src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-blue-telegram-flat-icons-inmotus-design.png" alt="external-blue-telegram-flat-icons-inmotus-design"/>
 ](https://t.me/Dimash95)
 [<img width="54" height="54" src="https://img.icons8.com/color/48/linkedin-circled--v3.png" alt="linkedin-circled--v3"/>](https://www.linkedin.com/in/dinmukhamed-amirov-4b520726b/)
