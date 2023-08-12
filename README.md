@@ -15,10 +15,10 @@ The next step is to learn Node.js and become a full stack developer.
 ---
 🤝 Social network:
 
-[<img width="48" height="48" src="https://img.icons8.com/fluency/48/gmail.png" alt="gmail"/>](dinmukhamed.amirov@gmail.com)
-[<img width="50" height="50" src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-blue-telegram-flat-icons-inmotus-design.png" alt="external-blue-telegram-flat-icons-inmotus-design"/>
+[<img width="48" height="48" src="https://img.icons8.com/fluency/48/gmail.png" alt="gmail"/>](mailto:dinmukhamed.amirov@gmail.com)
+[<img width="48" height="48" src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-blue-telegram-flat-icons-inmotus-design.png" alt="external-blue-telegram-flat-icons-inmotus-design"/>
 ](https://t.me/Dimash95)
-[<img width="54" height="54" src="https://img.icons8.com/color/48/linkedin-circled--v3.png" alt="linkedin-circled--v3"/>](https://www.linkedin.com/in/dinmukhamed-amirov-4b520726b/)
+[<img width="52" height="52" src="https://img.icons8.com/color/48/linkedin-circled--v3.png" alt="linkedin-circled--v3"/>](https://www.linkedin.com/in/dinmukhamed-amirov-4b520726b/)
 
 ---
 💻 Technology stack:
@@ -31,10 +31,10 @@ The next step is to learn Node.js and become a full stack developer.
 <img width="48" height="48" src="https://img.icons8.com/color/48/vue-js.png" alt="vue-js"/>
 
 ---
-Completed courses:
+📚 Completed courses:
 
-|              Courses             |          Date         |
-|----------------------------------|-----------------------|
-| JavaScript/Front-end. Stage 0    | 12/2022 - 02/2023     |
-| JavaScript/Front-end             | 03/2023 - learning now|
+|                    Courses                |          Date          |
+|-------------------------------------------|------------------------|
+| RS School "JavaScript/Front-end. Stage 0" | 12/2022 - 02/2023      |
+| RS School "JavaScript/Front-end"          | 03/2023 - learning now |
 
