@@ -6,9 +6,7 @@ I am a novice Frontend Developer from Kazakhstan.
 At the moment I am studying in [RS school - «JavaScript/Front-end»](https://rs.school/js/) course. 
 The next step is to learn Node.js and become a full stack developer.
 
-- ⚛️ I’m currently learning React
-
-- 🕺 I'm looking for my first job in IT industry
+- ⚛️ I’m currently learning backend (Node.js)
   
 - 📄 Check out my CV: [Head Hunter](https://hh.kz/resume/b6ebaf9bff096cd1370039ed1f37506742786c?hhtmFrom=resume_list)
 
