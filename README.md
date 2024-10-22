@@ -36,5 +36,6 @@ The next step is to become a full stack developer.
 | ELC Almaty - English Pre-intermediate level | 10/2020 - 12/2020      |
 | ELC Almaty - English Intermediate level     | 01/2021 - 03/2021      |
 | RS School - «JavaScript/Front-end. Stage 0» | 12/2022 - 02/2023      |
-| RS School - «JavaScript/Front-end»          | 03/2023 - learning now |
+| RS School - «JavaScript/Front-end»          | 03/2023 - 09/2023      |
+| RS School - «REACT 2023 Q4 (REACT)»         | 09/2023 - 01/2024      |
 
