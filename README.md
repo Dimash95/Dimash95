@@ -3,8 +3,8 @@
 👨‍💻 About me:
 
 I am a novice Frontend Developer from Kazakhstan. 
-At the moment I am studying in [RS school - «JavaScript/Front-end»](https://rs.school/js/) course. 
-The next step is to learn Node.js and become a full stack developer.
+At the moment I am working in QazTiQet. [Damubala](https://damubala.kz/)
+The next step is to become a full stack developer.
 
 - ⚛️ I’m currently learning backend (Node.js)
   
