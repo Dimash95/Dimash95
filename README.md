@@ -8,7 +8,7 @@ The next step is to become a full stack developer.
 
 - ⚛️ I’m currently learning backend (Node.js)
   
-- 📄 Check out my CV: [CV]()
+- 📄 Check out my CV: [CV](https://drive.google.com/file/d/1wwOuWWAL9uNvg0lsAtdt7rl0-J9fNV9r/view?usp=sharing)
 
 ---
 🤝 Social network:
