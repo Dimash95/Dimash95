@@ -12,7 +12,7 @@ I've led projects from scratch — from architecture and environment setup to re
 
 [<img width="48" height="48" src="https://img.icons8.com/fluency/48/gmail.png" alt="gmail"/>](mailto:dinmukhamed.amirov@gmail.com)
 [<img width="48" height="48" src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-blue-telegram-flat-icons-inmotus-design.png" alt="external-blue-telegram-flat-icons-inmotus-design"/>
-](https://t.me/Dimash95)
+](https://t.me/dimash_amir)
 [<img width="52" height="52" src="https://img.icons8.com/color/48/linkedin-circled--v3.png" alt="linkedin-circled--v3"/>](https://www.linkedin.com/in/dinmukhamed-amirov-4b520726b/)
 
 ---
