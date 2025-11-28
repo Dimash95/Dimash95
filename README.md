@@ -2,13 +2,10 @@
 ---
 👨‍💻 About me:
 
-I am a novice Frontend Developer from Kazakhstan. 
-At the moment I am working in QazTiQet. [Damubala](https://damubala.kz/)
-The next step is to become a full stack developer.
-
-- ⚛️ I’m currently learning backend (Node.js)
+I'm a Full Stack Developer with experience in React/Next.js, Vue/Nuxt, and Node.js/NestJS. I work on both frontend and backend, and handle DevOps tasks (Docker, server deployment).
+I've led projects from scratch — from architecture and environment setup to release and maintenance. I'm also the founder of CompanyScore (companyscore.net), a non-commercial project built with Next.js and NestJS, where I assembled a team, launched a full-stack product, and mentored junior developers.
   
-- 📄 Check out my CV: [CV](https://drive.google.com/file/d/1M9Cye8xZfOyF0ltlVcptDHyFUaHdp0g4/view?usp=sharing)
+- 📄 Check out my CV: [CV](https://dimash-amir.notion.site/Amirov-Dimash-262662f6cd8a8081953ae70edfb81e79)
 
 ---
 🤝 Social network:
@@ -38,4 +35,6 @@ The next step is to become a full stack developer.
 | RS School - «JavaScript/Front-end. Stage 0» | 12/2022 - 02/2023      |
 | RS School - «JavaScript/Front-end»          | 03/2023 - 09/2023      |
 | RS School - «REACT 2023 Q4 (REACT)»         | 09/2023 - 01/2024      |
+| Learn Js - «Node.js/Nest.js»                | 01/2025 - 02/2025      |
+
 
