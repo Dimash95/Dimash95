@@ -17,11 +17,14 @@ I'm a Full Stack Developer with **4+ years of commercial experience**, specializ
 
 ---
 
-🤝 **Let's connect**
+## 🤝 Let's connect
 
-[<img width="48" height="48" src="https://img.icons8.com/fluency/48/gmail.png" alt="gmail"/>](mailto:dinmukhamed.amirov@gmail.com)
-[<img width="48" height="48" src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-blue-telegram-flat-icons-inmotus-design.png" alt="telegram"/>](https://t.me/dimash_amir)
-[<img width="52" height="52" src="https://img.icons8.com/color/48/linkedin-circled--v3.png" alt="linkedin"/>](https://www.linkedin.com/in/dinmukhamed-amirov-4b520726b/)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinmukhamed.amirov@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dimash_amir)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinmukhamed-amirov-4b520726b/)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@dimash_digital_nomad)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dimash_digital_nomad)
+[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@dimash_digital_nomad)
 
 ---
 
