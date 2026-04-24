@@ -29,32 +29,17 @@ I'm a Full Stack Developer with **4+ years of commercial experience**, specializ
 
 **Frontend**
 <p>
-<img width="40" height="40" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html"/>
-<img width="40" height="40" src="https://img.icons8.com/fluency/48/css3.png" alt="css"/>
-<img width="40" height="40" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript"/>
-<img width="40" height="40" src="https://img.icons8.com/fluency/48/typescript--v2.png" alt="typescript"/>
-<img width="40" height="40" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/>
-<img width="40" height="40" src="https://img.icons8.com/color/48/nextjs.png" alt="nextjs"/>
-<img width="40" height="40" src="https://img.icons8.com/color/48/vue-js.png" alt="vuejs"/>
-<img width="40" height="40" src="https://img.icons8.com/color/48/nuxt-js.png" alt="nuxtjs"/>
+<img width="40" height="40" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html"/> <img width="40" height="40" src="https://img.icons8.com/fluency/48/css3.png" alt="css"/> <img width="40" height="40" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript"/> <img width="40" height="40" src="https://img.icons8.com/fluency/48/typescript--v2.png" alt="typescript"/> <img width="40" height="40" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/> <img width="40" height="40" src="https://img.icons8.com/color/48/nextjs.png" alt="nextjs"/> <img width="40" height="40" src="https://img.icons8.com/color/48/vue-js.png" alt="vuejs"/> <img width="40" height="40" src="https://img.icons8.com/color/48/nuxt-js.png" alt="nuxtjs"/>
 </p>
 
 **Backend**
 <p>
-<img width="40" height="40" src="https://img.icons8.com/fluency/48/node-js.png" alt="nodejs"/>
-<img width="40" height="40" src="https://img.icons8.com/color/48/nestjs.png" alt="nestjs"/>
-<img width="40" height="40" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgres"/>
-<img width="40" height="40" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongodb"/>
-<img width="40" height="40" src="https://img.icons8.com/color/48/redis.png" alt="redis"/>
+<img width="40" height="40" src="https://img.icons8.com/fluency/48/node-js.png" alt="nodejs"/> <img width="40" height="40" src="https://img.icons8.com/color/48/nestjs.png" alt="nestjs"/> <img width="40" height="40" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgres"/> <img width="40" height="40" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongodb"/> <img width="40" height="40" src="https://img.icons8.com/color/48/redis.png" alt="redis"/>
 </p>
 
 **DevOps & Tools**
 <p>
-<img width="40" height="40" src="https://img.icons8.com/color/48/docker.png" alt="docker"/>
-<img width="40" height="40" src="https://img.icons8.com/ultraviolet/40/nginx.png" alt="nginx"/>
-<img width="40" height="40" src="https://img.icons8.com/color/48/git.png" alt="git"/>
-<img width="40" height="40" src="https://img.icons8.com/color/48/github--v1.png" alt="github"/>
-<img width="40" height="40" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma"/>
+<img width="40" height="40" src="https://img.icons8.com/color/48/docker.png" alt="docker"/> <img width="40" height="40" src="https://img.icons8.com/ultraviolet/40/nginx.png" alt="nginx"/> <img width="40" height="40" src="https://img.icons8.com/color/48/git.png" alt="git"/> <img width="40" height="40" src="https://img.icons8.com/color/48/github--v1.png" alt="github"/> <img width="40" height="40" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma"/>
 </p>
 
 ---
