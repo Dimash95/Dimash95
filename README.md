@@ -9,7 +9,7 @@ I'm a Full Stack Developer with **4+ years of commercial experience**, specializ
 - 🌍 **[Rankio](https://rankio.org)** — international employer review platform (Next.js + NestJS, i18n EN/RU, Railway, Redis + Bull queues, DeepL translation). Covering IT and expanding into construction, healthcare, and hospitality across multiple countries.
 - 🐾 **[Petly](https://petly.space)** — a platform connecting people with animal shelters, starting in Almaty with international expansion in mind.
 
-👨‍🏫 I mentor junior developers, teach frontend at Kamalladin courses, and share my dev journey as a content creator under **@dimash_digital_nomad** (YouTube, Instagram, TikTok, LinkedIn).
+👨‍🏫 I mentor junior developers, have teaching experience in IT courses, and share my dev journey as a content creator under **@dimash_digital_nomad** (YouTube, Instagram, TikTok, LinkedIn).
 
 📍 Almaty, Kazakhstan 🇰🇿 · Learning Mandarin 🇨🇳 · Pushing English to C1 🇬🇧
 
