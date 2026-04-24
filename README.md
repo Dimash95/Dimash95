@@ -17,7 +17,7 @@ I'm a Full Stack Developer with **4+ years of commercial experience**, specializ
 
 ---
 
-## 🤝 Let's connect
+🤝 **Let's connect**
 
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinmukhamed.amirov@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dimash_amir)
@@ -84,9 +84,9 @@ I'm a Full Stack Developer with **4+ years of commercial experience**, specializ
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Dimash95&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimash95&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=ВАШ_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Dimash95&theme=tokyonight&hide_border=true" height="165"/>
 </p>
